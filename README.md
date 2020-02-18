@@ -1,5 +1,12 @@
 # Lecture Notes for nyc-mhtn-ds-021720 :floppy_disk:
 
+### Before following the below instructions, make sure that you have:
+- Forked the lecture repo
+- Cloned it locally on your computer using the terminal command "git clone insert_forked_repo_URL_here"
+- Enter the cloned lecture repo in terminal using "cd name_of_repo"
+- Move on to the below steps =)
+
+----------------------------------------------------------------------
 ## To update a local repo after forking and cloning
 
 ### If you have set the remote skip to step :two:
