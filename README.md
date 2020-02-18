@@ -13,7 +13,7 @@
 
 1. Add the learn-co lecture notes repo as the remote, **this step only happens once**
 ```
-git remote add upstream https://github.com/learn-co-students/nyc-ds-100719-lectures.git
+git remote add upstream https://github.com/learn-co-students/nyc-ds-021720-lectures.git
 ```
 
 2. Check the remote is set and your lecture notes repo is correct.
