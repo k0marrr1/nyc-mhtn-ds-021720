@@ -32,6 +32,9 @@ Thumbs.db
 
 # config file
 config.py
+
+# csv or data files
+*.csv
 ```
 
 4. Each teammate can clone down the repository! (No need to fork)
