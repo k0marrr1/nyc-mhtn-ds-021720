@@ -118,9 +118,8 @@ The projects are serious and important. They can be passed and they can be faile
 
 Finally, this is your first project. We don't expect you to remember all of the terms or to get all of the answers right. If in doubt, be honest. If you don't know something, say so. If you can't remember it, just say so. It's very unusual for someone to complete a project review without being asked a question they're unsure of, we know you might be nervous which may affect your performance. Just be as honest, precise and focused as you can be, and you'll do great!
 
-## Checklist:
+## Project Checklist:
 
-Project Checklist:
 - Pull data from at least 2/3 sources (1 data source per team member)
 - Develop a pipeline for your data, from API/scraping to dataframe
 - Generate descriptive statistics to compare the success of different content 
