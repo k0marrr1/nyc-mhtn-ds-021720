@@ -121,7 +121,7 @@ Finally, this is your first project. We don't expect you to remember all of the 
 ## Checklist:
 
 Project Checklist:
-- Pull data from at least 2/3 sources (1 data source per team member). 
+- Pull data from at least 2/3 sources (1 data source per team member)
 - Develop a pipeline for your data, from API/scraping to dataframe
 - Generate descriptive statistics to compare the success of different content 
 - A slideshow presentation that entails the following:
@@ -130,8 +130,8 @@ Project Checklist:
 - 2 meaningful summary tables (do not copy and paste results from Pandas)
 - Give at least two actionable insights (What type of content should they be looking to
 produce? What should the budget requirements be? Should they recruit certain actors for their content?)
-- Posted to git repo:
+## Posted to git repo:
 - A readme.md listing team members, project goals, etc
-- Python files and/or Jupyter notebook or of clean and commented code so an
+- Python files and/or Jupyter notebooks with clean and commented code so an
 independent party can replicate your analysis
 - A link to your Google slide show
