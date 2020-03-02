@@ -121,7 +121,7 @@ Finally, this is your first project. We don't expect you to remember all of the 
 ## Project Checklist:
 
 - Pull data from at least 2/3 sources (1 data source per team member)
-- Develop a pipeline for your data, from API/scraping to dataframe
+- Develop a pipeline for your data, from API/scraping to dataframe. Save down your clean data as .csv(s)
 - Generate descriptive statistics to compare the success of different content 
 - A slideshow presentation that entails the following:
 - The purpose of your analysis and why it matters
