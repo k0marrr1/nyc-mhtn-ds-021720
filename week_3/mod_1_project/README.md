@@ -23,7 +23,7 @@ All that remains in Module 1 is to put our newfound data science skills to use w
 ## The Project
 
 Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry.
-Your team is charged with doing data analysis and creating a presentation that explores what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the CEO can use when deciding what type of films they should be creating.
+Your team is charged with doing data analysis and creating a presentation that explores what type of content is currently doing the best at the box office. You must then translate those findings into actionable insights that the CEO can use when deciding what type of content they should be creating.
 
 # The Dataset
 
@@ -58,7 +58,6 @@ For this project, your Jupyter Notebook should meet the following specifications
     * **Level Up**: Each question is clearly answered with a visualization that makes the answer easy to understand.   
 * Your notebook should contain 1 - 2 paragraphs briefly explaining your approach to this project.
 
-
 ### Non-Technical Presentation Must-Haves
 
 Another deliverable should be a Keynote, PowerPoint or Google Slides presentation. Your target audience is non-technical people interested in using your findings to make decisions for creating movies.
@@ -70,7 +69,6 @@ Your presentation should:
 * Take no more than 5 minutes to present.   
 * Avoid technical jargon and explain the results in a clear, actionable way for non-technical audiences. 
 
-
 ## The Process
 
 ### 1. Getting Started
@@ -79,8 +77,7 @@ Please start by reviewing this document. If you have any questions, please ask t
 
 Be sure to let the instructor team know when you’ve started working on a project, either by reaching out over Slack or, by connecting with the instructors.
 
-Once you're done with the 10 sections in module 1, please start on the project. Do that by forking this repository, cloning it locally, and working in the `student.ipynb` file. Make sure to also add and commit a link to your presentation in the README.md.
-
+Once you're done with the 10 sections in module 1, please start on the project.
 
 #### 1. Deliver your presentation to a non-technical stakeholder.
 The presentation  should not exceed 5 minutes.
@@ -124,15 +121,17 @@ Finally, this is your first project. We don't expect you to remember all of the 
 ## Checklist:
 
 Project Checklist:
-- Pull data from at least 2/3 sources (1 data source per team member). ❏ Create a database on​your current AWS instance ​to hold your data ❏ Develop an ETL pipeline for your data
-- Generate descriptive statistics to compare the success of different films ❏ A slideshow presentation that entails the following:
+- Pull data from at least 2/3 sources (1 data source per team member). 
+- Develop a pipeline for your data, from API/scraping to dataframe
+- Generate descriptive statistics to compare the success of different content 
+- A slideshow presentation that entails the following:
 - The purpose of your analysis and why it matters
-- 4 ​well labeled​ visualizations created using Matplotlib/Seaborn
-- 2 meaningful summary tables
-- Give at least two actionable insights (What type of films should they be looking to
-produce? What should the budget requirements be? Should they recruit certain actors for their films?)
+- 4 well labeled visualizations created using Matplotlib/Seaborn
+- 2 meaningful summary tables (do not copy and paste results from Pandas)
+- Give at least two actionable insights (What type of content should they be looking to
+produce? What should the budget requirements be? Should they recruit certain actors for their content?)
 - Posted to git repo:
-- A r​eadme.md​ listing lab members, project goals, etc
-- Python files and/or Jupyter notebook or of ​clean and commented code​ so an
+- A readme.md listing team members, project goals, etc
+- Python files and/or Jupyter notebook or of clean and commented code so an
 independent party can replicate your analysis
 - A link to your Google slide show
