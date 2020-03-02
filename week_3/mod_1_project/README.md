@@ -124,15 +124,15 @@ Finally, this is your first project. We don't expect you to remember all of the 
 ## Checklist:
 
 Project Checklist:
-❏ Pull data from at least 2/3 sources (1 data source per team member). ❏ Create a database on​your current AWS instance ​to hold your data ❏ Develop an ETL pipeline for your data
-❏ Generate descriptive statistics to compare the success of different films ❏ A slideshow presentation that entails the following:
-❏ The purpose of your analysis and why it matters
-❏ 4 ​well labeled​ visualizations created using Matplotlib/Seaborn
-❏ 2 meaningful summary tables
-❏ Give at least two actionable insights (What type of films should they be looking to
+- Pull data from at least 2/3 sources (1 data source per team member). ❏ Create a database on​your current AWS instance ​to hold your data ❏ Develop an ETL pipeline for your data
+- Generate descriptive statistics to compare the success of different films ❏ A slideshow presentation that entails the following:
+- The purpose of your analysis and why it matters
+- 4 ​well labeled​ visualizations created using Matplotlib/Seaborn
+- 2 meaningful summary tables
+- Give at least two actionable insights (What type of films should they be looking to
 produce? What should the budget requirements be? Should they recruit certain actors for their films?)
-❏ Posted to git repo:
-❏ A r​eadme.md​ listing lab members, project goals, etc
-❏ Python files and/or Jupyter notebook or of ​clean and commented code​ so an
+- Posted to git repo:
+- A r​eadme.md​ listing lab members, project goals, etc
+- Python files and/or Jupyter notebook or of ​clean and commented code​ so an
 independent party can replicate your analysis
-❏ A link to your Google slide show
+- A link to your Google slide show
