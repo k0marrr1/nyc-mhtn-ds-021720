@@ -16,7 +16,7 @@
 
 9. Return the customer_id, first_name, last_name, and phone number of sales.customers table where phone is not null, order by last name descending.
 
-10. Use the cast function to explicitly filter orders from the orders table where requiredDate is greater than 2017-01-01 and 2017-01-31.
+10. Use the cast function to explicitly filter orders from the orders table where requiredDate is between than 2017-01-01 and 2017-01-31.
 
 11. Return the order number, order status and total sales from the orders and orderdetails tables.
 
