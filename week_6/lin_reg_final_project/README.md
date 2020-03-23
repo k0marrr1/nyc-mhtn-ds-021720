@@ -87,7 +87,7 @@ For this project, your Jupyter Notebook should meet the following specifications
 
 ### 2. Non-Technical Presentation Must-Haves
 
-The second deliverable should be a Google Slides presentation delivered as a pdf file in your fork of this repository with the file name of `presentation.pdf` detailing the results of your project.  Your target audience are non-technical people interested in using your findings to maximize their profit when selling their home.
+The second deliverable should be a Google Slides presentation.
 
 Your presentation should:
 
