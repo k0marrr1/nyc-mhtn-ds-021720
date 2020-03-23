@@ -104,10 +104,7 @@ Your presentation should:
 
  You’re almost done! In order for your project to be considered complete, you must finish and include the following links to your work in the corresponding fields of the project worksheet.
 
- 1. **GitHub Repo:** Now that you’ve completed your project in Jupyter Notebooks, push your work to GitHub and paste that link to the right. (If you need help doing so, review the resources [here](https://docs.google.com/spreadsheets/d/1CNGDhjcQZDRx2sWByd2v-mgUOjy13Cd_hQYVXPuzEDE/edit#gid=0).)
-_Reminder: Make sure to also add and commit a pdf of your non-technical presentation to the repository with a file name of presentation.pdf._
-2. **Blog Post:** Include a link to your blog post.
-
+ 1. **GitHub Repo:** Now that you’ve completed your project in Jupyter Notebooks, push your work to GitHub. Make sure to submit your work in the Project Spreadsheet.
 
 ## Summary
 
